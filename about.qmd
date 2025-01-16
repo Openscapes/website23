@@ -107,7 +107,7 @@ We are funded through grants and contracts with our partners, which supports inv
 
 Openscapes launched through funding from [Mozilla](https://www.mozilla.org/), via an Open Science Fellowship awarded to Julia Stewart Lowndes. <!---Mozilla also sponsored the [first Champions Cohort](events/2019-01-21-inaugural/index.Rmd) for seven academic science teams. ---> Openscapes grew with funding from [NASA Earthdata](https://www.earthdata.nasa.gov/), via decades-long community building leadership by Erin Robinson. Early funders also include the [Gordon and Betty Moore Foundation](https://www.moore.org/), who supported us to develop a strategic growth plan, and [Code for Science and Society](https://eventfund.codeforscience.org/), who supported us to improve daily practices for how we work and teach to more bravely align with our values for diversity, equity, inclusion, and belonging. 
 
-We are dedicated to leading Openscapes as an open source community. This includes exploring and growing mechanisms to administer funding for people building careers in open science. Funding was first administered through [NCEAS](https://nceas.ucsb.edu), and is currently administered via [Openscapes LLC](https://jules32.github.io/openscapes-llc) and [Open Collective](https://opencollective.com).
+We are dedicated to leading Openscapes as an open source community. This includes exploring and growing mechanisms to administer funding for people building careers in open science. Funding was first administered through [NCEAS](https://nceas.ucsb.edu), and [Open Collective](https://opencollective.com). It is currently administered via [Openscapes LLC](https://jules32.github.io/openscapes-llc), a certified women-owned small business and 1% for the Planet member.
 
 <br>
 

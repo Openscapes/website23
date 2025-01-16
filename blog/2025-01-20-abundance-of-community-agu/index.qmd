@@ -1,0 +1,65 @@
+---
+title: "The Abundance of Community at the 2024 AGU Meeting"
+description: "Reflections following the American Geophysical Union (AGU) Fall Meeting, December 2024."
+author: 
+  - name: Julie Lowndes
+    orcid: 0000-0003-1682-3872
+date: 2025-01-20
+citation: 
+  url: https://openscapes.org/blog/2025-01-20-abundance-of-community-agu
+categories: [blog, nasa-framework, noaa-fisheries]
+#image: TODO
+---
+
+*These are short reflections flying home from the AGU Fall Meeting, where I was buoyed by so many people. As we move into 2025, community is more critical than ever, and spending time on gratitude is a way of keeping grounded and resilient for days ahead. With that idea, I wanted to share some of my notes from December looking forward.*
+
+*Quicklinks:*
+
+-   \[*AGU meeting December 2024*\] (TODO)
+-   Openscapes activities (TODO)
+-   Google Photo album subset, to share publicly?
+-   other?
+
+------------------------------------------------------------------------
+
+## The Serviceberry
+
+On the plane home I read [The Serviceberry] (TODO) about the gift economy, reciprocity, and gratitude for the abundance of community. This is a new short book by \[Dr. Robin Wall Kimmerer\] (TODO), and the physical book was a gift of reciprocity given to me by a colleague-friend and fellow resident of Santa Barbara Bruce Caron, in exchange for me bringing EarthArxiv community stickers to AGU.
+
+TODO review notes
+
+One of the themes of Serviceberry is the idea of succession ecology ...TODO
+
+## Acts of Reciprocity at AGU
+
+There were so many acts of reciprocity in the open source/open science community. There were too many to mention fully here but examples that immediately come to mind:
+
+-   **Openscapes Social** on Monday. Wow. Such a joy to be with folks; the picture didn’t capture everyone but a lot of us! I was so buoyed and thrilled to see so many people (\~30 throughout the evening) at a funky bar all together. There were Mentors from NASA, NOAA, Champions, and earthaccess and open source contribituros, Pangeo folks, and I met many for the first time! Thank you to the anonymous generous person who opened a bar tab for us before we arrived. That speaks volumes about this community and how we look out for each other with joy. Thank you!
+
+![](Openscapes-Social-AGU-2024.jpg){fig-align="center" width="514"}
+
+-   When I shared my goals with Chelle Gentemann, she not only gave recommendations but in-the-moment sent introductions to several people via Slack
+
+![](open-sci-heroines-agu2024.jpg){fig-align="center" width="366"}
+
+-   On Monday, Brianna Pagan (NASA Mentor at GES DISC) and I had a long conversation about values, and how they show up in beautiful places where we live that have high fire risk. When Brianna flew home hours later with a wildfire threatening her home, she asked me to give an invited talk for her on Wednesday. I said yes without hesitation, and was so honored that she trusted me to give the talk and was confident in our relationship to ask for help. I know that anyone of the NASA Openscapes Mentors would have said yes too. That is the community of reciprocity and generosity that we have.
+
+-   A dear grad school friend Alison Haupt (Cal State Monterey Bay) saw Openscapes stickers at the NASA booth, which she said was so cool in itself (imagine this from my squid PhD days)! And she overheard a conversation between graduate students: "Oh you should get an Openscapes sticker, they are a great group!" "Oh yeah, I already have one!"
+
+-   Walking in the cold to see all the Christmas and holiday lights with friends Nikki Tulley (NASA Indigenous Partner Initiative \[TODO google name\]) and Crista Straub (USGS) - these two also support and elevate stories of women using earth observation data with many interwoven international teams
+
+-   Ian Carroll (NASA Mentor at OB.DAAC) inviting me to play pickleball with his graduate school friends from Santa Barbara...and when I was overcommitted and later expressed regret and fomo, generously introduced me to his friends via email so we can get together and play back home
+
+-   Seeing the `earthaccess` python library in many places: in talks, on posters, stickers on waterbottles! What a great library that people are proud to use and be a part of!
+
+-   Ember the Therapy Dog at the NOAA booth. She was there snoozing with a fluffy coat, welcoming you to pet her and have a little peace together.
+
+-   Pangeo Hackday on Saturday! Hosted by Development Seed and EarthMover. I'm so glad I went; I wasn't there to hack code but to support, facilitate, ideate with folks. I learned so much, met so many cool and thoughtful people in the geospatial and cloud space! It was a really cool moment when Ayush Nag gave a live demo to the group of a pull request he submitted to `earthaccess` that Luis Lopez merged during the hackday!
+
+![](ayush-nag-luis-lopez-demo-earthaccess.jpg){fig-align="center" width="294"}
+
+-   Meeting Cassie Buhler (UC Berkeley) at our Openscapes Social. She is a postdoc with Carl Boettiger and we had met on Slack previously
+
+-   Eli Holmes (NOAA Fisheries Openscapes co-lead) and Aaron Friesz (ESIP, previously NASA Mentor at LP DAAC) zooming around the city late night on ebikes! Fun fact: they first met when Eli was a participant in the 2021 Cloud Hackathon that Aaron co-taught with the NASA Openscapes Mentors :)
+
+![](eli-aaron-citibikes-agu2024.jpg){fig-align="center" width="209"}
